@@ -10,3 +10,5 @@ John [4]: Just out to pick up a few things before the stores close for the day. 
 
 Jane [5]: Ah, I won't keep you then.
 
+John [6]: Nice to see you. Let's catch-up soon.
+
